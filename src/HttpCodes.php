@@ -44,6 +44,7 @@ class HttpCodes
     const HTTP_UNSUPPORTED_MEDIA_TYPE = 415;
     const HTTP_REQUESTED_RANGE_NOT_SATISFIABLE = 416;
     const HTTP_EXPECTATION_FAILED = 417;
+    const HTTP_I_AM_A_TEAPOT = 418;
 
     // [Server Error 5xx]
     const HTTP_INTERNAL_SERVER_ERROR = 500;
